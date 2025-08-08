@@ -3,3 +3,4 @@ mysql
 redis
 openjdk:8
 openjdk:11
+tomcat
